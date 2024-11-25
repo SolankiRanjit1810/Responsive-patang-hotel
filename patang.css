@@ -1,0 +1,528 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.first-d{
+  display: block;
+ background-color: #a08261;
+ text-align: center;
+ color: #3a3a3c;
+ 
+}
+.first-2{
+  display: block;
+ background-color: #a08261;
+ text-align: center;
+ color: #3a3a3c;
+ display: none;
+}
+
+ .d-1{
+    height: 100px;
+    width: 100%;
+    background-color: #333;
+    display: flex;
+    overflow: hidden;
+    position: sticky;
+    top: 0px;
+ }
+ .logo{
+    height: 80px;
+ }
+ .d-2{
+  left: 32%;
+    background-color: #3a3a3c ;
+    position: sticky;
+    top: 0px;
+  
+  }
+ .d-2, a{
+    text-decoration: none;
+    color: #a08261;
+    padding-left: 27px;
+    padding-top: 30px;
+  } 
+
+  .title{
+   padding-top: 50%;
+   position: absolute;
+   color: #a08261;
+   top: 40%;
+   text-transform: none;
+   margin-bottom: 0;
+   left: 0;
+   right: 0;
+   width: 95%;
+   margin: 0 auto;
+   background-color: #333333c4;
+   padding: 10px;
+   border-top: 3px solid;
+   border-bottom: 3px solid;
+   text-align: center;
+  }
+  /* .tital, span{
+    padding: 10px;
+  position: absolute;
+  top: -10px;
+  margin-left: -110px;
+  } */
+
+  .img-1{
+    width: 1250px;
+
+
+  }
+  .img{
+     display: flex;
+  }
+  .content{
+    background-color:#3a3a3c ;
+    color:#a08261 ;
+  }
+  .content h1{
+    padding-left: 3%;
+  }
+  .content, .p-1{
+    padding-left: 7%;
+    padding-top: 10%;
+    padding-right: 5%;
+  }
+  .img-3{
+    transform: rotate(180deg);
+  }
+
+  .row{
+    display: flex;
+    
+  }
+  .jrp{
+    width: 1250px;
+   
+   
+  }
+  .col{
+    background-color:#3a3a3c ;
+    color:#a08261 ;
+  }
+  .col, h1{
+    padding-top: 10%;
+    padding-left: 5%;
+  
+  }
+  .col, p{
+    padding-left: 6%;
+    padding-top: 10%;
+    padding-right: 8%;
+    text-align: justify;
+
+  }
+  .img-4{
+    transform: rotate(180deg);
+    padding-top: 10px;
+  }
+  .icon{
+    justify-content: space-around;
+    padding: 20px;
+    padding-top: 30px;
+    display: flex;
+    background-color: #333;
+  }
+  .fa-instagram{
+    color:#a08261 ;
+  }
+  .index {
+    padding-left: 30%;
+ 
+  }
+  .fa-facebook{
+    color:#a08261 ;
+  }
+  .fa-envelope{
+    color:#a08261 ;
+  }
+  
+  .footer{
+    height: 32px;
+    background-color:#a08261 ;
+    display: flex;
+    justify-content: center;
+  }
+  .logo-2{
+    padding: 2px;
+  }
+  .footer h3{
+    padding-top: 5px;
+  }
+
+/* Restaurant */
+
+*{
+  margin: 0;
+  padding: 0;
+}
+.first-d{
+background-color: #a08261;
+text-align: center;
+color: #3a3a3c;
+}
+
+.d-1{
+  height: 100px;
+  width: 100%;
+  background-color: #3a3a3c;
+  display: flex;
+  overflow: hidden;
+}
+.logo{
+  height: 80px;
+}
+.d-2{
+   left: 32%;
+  background-color: #3a3a3c ;
+}
+.d-2, a{
+  text-decoration: none;
+  color: #a08261;
+  padding-left: 27px;
+  padding-top: 30px;
+} 
+.m-1{
+   height: 100%;
+   width: 1920px;
+   overflow: hidden;
+}
+.para{
+  height: 50vh;
+  background-color: #3a3a3c;
+}
+.para h1{
+padding-top: 40px;
+text-align: center;
+color: #a08261;
+
+}
+.para h2{
+  color: #a08261;
+  font-size: 30px;
+  margin-left: 45%;
+}
+.para p{
+  color: #a08261;
+  padding-top: 40px;
+  width: 500px;
+  text-align: justify;
+ padding-left: 38%;
+  }
+
+  .row{
+    display: flex;
+    
+  }
+  .ran{
+    width: 1250px;
+    height: 100%;
+   
+  }
+  .rj{
+    background-color:#333;
+    color:#a08261 ;
+  }
+  .rj, p{
+    padding-left: 3%;
+    padding-top: 10%;
+    padding-right: 15px;
+
+  }
+  .img-4{
+    transform: rotate(180deg);
+    padding-top: 10px;
+  }
+  .icon{
+
+    justify-content: space-around;
+      padding: 20px;
+      padding-top: 30px; 
+     
+      display: flex;
+      background-color:#333;
+    }
+    .fa-instagram{
+      color:#a08261 ;
+    }
+    .index {
+    padding-left: 20%;
+   
+    }
+    .fa-facebook{
+      color:#a08261 ;
+    }
+    .fa-envelope{
+      color:#a08261 ;
+    }
+    
+    .footer{
+      height: 32px;
+      background-color:#a08261 ;
+      display: flex;
+      justify-content: center;
+    }
+    .logo-2{
+      padding: 2px;
+    }
+    .footer h3{
+      padding-top: 5px;
+    }
+
+    /* ABOUT */
+
+    .first-d{
+      background-color: #a08261;
+      text-align: center;
+      color: #3a3a3c;
+      }
+      
+      .d-1{
+        height: 100px;
+        width: 100%;
+        background-color: #3a3a3c;
+        display: flex;
+        overflow: hidden;
+      }
+      .logo{
+        height: 80px;
+      }
+      .d-2{
+        left: 32%;
+        background-color: #3a3a3c ;
+      }
+      .d-2, a{
+        text-decoration: none;
+        color: #a08261;
+        padding-left: 27px;
+        padding-top: 30px;
+      } 
+      .para-1{
+        height: 50vh;
+        background-color: #3a3a3c;
+      }
+      .para-1 h1{
+      padding-top: 40px;
+      text-align: center;
+      color: #a08261;
+      
+      }
+      .para-1 h2{
+        color: #a08261;
+        font-size: 30px;
+        margin-left: 45%;
+      }
+      .para-1 p{
+        color: #a08261;
+        padding-top: 40px;
+        width: 500px;
+        text-align: justify;
+       padding-left: 38%;
+        }
+
+
+
+
+
+
+      .number{
+        text-align: center;
+        background-color: #3a3a3c ;
+        color: #a08261;
+        display: none;
+      }
+
+
+
+
+    
+
+
+    
+      
+      @media (max-width: 768px){
+        .img-2{
+      
+          overflow: hidden;
+        }
+      
+
+        
+
+
+   .first-d{
+    display: none;
+   }
+        .first-2{
+          display: block;
+        }
+
+           .video-benner{
+            width: 100%;
+           }
+       
+        .title{
+        display: none;
+        }
+
+        .d-2{
+      display: none;
+        }
+        .vdo{
+       
+          width: 100%;
+        }
+          .d-2 {
+          position: relative;
+          left: 0;
+          width: 100%;
+        }
+        .img-1, .jrp {
+          width: 100%;
+          height: auto;
+        }
+      
+        .img{
+          flex-direction: column;
+        }
+        .row {
+       flex-direction: column-reverse;
+        }
+        .content{
+         padding: 30px;
+        }
+         .content h1{
+           font-size: 20px;
+           padding-left: 15px;
+         }
+         .p-1{
+          font-size: 14px ;
+         }
+    .naps{
+      padding-left: 73px;
+    }
+
+    .col{
+      padding: 30px;
+     }
+      .col h1{
+        font-size: 20px;
+        padding-left: 15px;
+      }
+      .p-2{
+       font-size: 14px ;
+      }
+           .icon{
+            display: none;
+           }
+           .footer{
+            display: none;}
+
+           .number{
+            display: block;
+            overflow: hidden;
+           }
+
+
+
+           
+           .main{
+            width: 100%;
+            overflow: hidden;
+           }
+
+           .m-1{
+            width: 100%;
+            overflow: hidden;
+         }
+
+         .ran{
+          height: 30vh;
+         width: 100%;
+         overflow: hidden;
+         
+        }
+     
+
+        .para{
+          overflow: hidden;
+          height: 40vh;
+          background-color: #3a3a3c;
+        }
+        .para h1{
+        padding-top: 20px;
+        text-align: center;
+        color: #a08261;
+        
+        }
+        .para h2{
+          color: #a08261;
+          font-size: 30px;
+        
+        }
+        .para p{
+          color: #a08261;
+          padding-top: 20px;
+          width: 350px;
+          padding-left: 16%;
+          text-align: justify;
+          overflow: hidden;
+          }
+
+          .rj, p{
+            padding-left: 11%;
+            padding-top: 2%;
+            text-align: justify;
+            padding-right: 16%;
+          }
+
+
+          /* about */
+          .para-1{
+            height: 50vh;
+            background-color: #3a3a3c;
+            overflow: hidden;
+          }
+          .para-1 h1{
+          padding-top: 20px;
+          text-align: center;
+          color: #a08261;
+          overflow: hidden;
+          
+          }
+          .para-1 h2{
+            color: #a08261;
+            font-size: 30px;
+        margin-left: 32%;
+        overflow: hidden;
+          }
+          .para-1 p{
+            color: #a08261;
+            padding-top: 12px;
+            width: 442px;
+            text-align: justify;
+            padding-left: 6%;
+            overflow: hidden;
+            }
+    
+      
+      }
+        
+
+
+
+
+
+
+
+
+
+
+      
+      
+      
+      
